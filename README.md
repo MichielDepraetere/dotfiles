@@ -7,7 +7,7 @@ My configuration files for linux
 ```bash
 cd ~
 git clone https://github.com/MichielDepraetere/dotfiles.git
-cd ditfiles
+cd dotfiles
 ./install
 ```
 
